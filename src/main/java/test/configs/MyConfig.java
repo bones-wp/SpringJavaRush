@@ -14,7 +14,7 @@ public class MyConfig {
      }
 
     @Bean
-    public Dog getDog() {
+    public Dog dog() {
         return new Dog();
     }
 
