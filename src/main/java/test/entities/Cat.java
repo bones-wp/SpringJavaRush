@@ -1,8 +1,5 @@
 package test.entities;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class Cat {
     private String name = "Муся";
 
